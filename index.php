@@ -7,14 +7,14 @@
  <head>
  	<meta charset="UTF-8">
  	<link rel="stylesheet" href="css/css.css">
- 	<title>留言板页面</title>
+ 	<title>留言板页面  每一次留言提交一次账号即可，密码、手机号随意</title>
  </head>
  <body>
  	<form action="add.php?act=addMes" method="post">
 		<table>
 			<tr><th>用户名</th><th><input type="text" name="username"></th></tr>
 			<tr><th>密码</th><th><input type="password" name="password"></th></tr>
-			<tr><th>住址</th><th><input type="text" name="addres"></th></tr>
+			<tr><th>留言</th><th><input type="text" name="addres"></th></tr>
 			<tr><th>手机号</th><th><input type="text" name="phone"></th></tr>
 			<tr><th>头像</th><th><input type="radio" name="photo" checked value="1.jpg"><img src="img/1.jpg" alt="">
 								 <input type="radio" name="photo" value="2.jpg"><img src="img/2.jpg" alt="">
