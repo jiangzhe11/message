@@ -23,7 +23,7 @@
  <body>
  	<h1>留言列表</h1>
  	<table width="100%">
-		<tr><th>用户名</th><th>密码</th><th>手机号</th><th>住址</th><th>头像</th><th>注册时间</th><th>操作</th></tr>
+		<tr><th>用户名</th><th>密码</th><th>手机号</th><th>留言</th><th>头像</th><th>注册时间</th><th>操作</th></tr>
 		<tr>
 		
 		<?php 
