@@ -24,6 +24,7 @@
 			<tr><th><input type="submit" value="提交"></th><th></th></tr>
 		</table>
  	</form>
+	 <p>留言板页面  每一次留言提交一次账号即可，密码、手机号随意。查看留言点击“列表”按钮</p>
  	<a href="list.php"><input type="submit" value="列表"></a>
  	<a href="text.php"><input type="submit" value="测试"></a>
  	<a href="index.php"><input type="submit" value="首页"></a>
